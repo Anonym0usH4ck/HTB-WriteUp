@@ -115,7 +115,7 @@ The idea is that it gets put into a `form`, which the payload then closes, crea
 
 I’ll submit this in the contact form:
 
-![](./images/Pasted_image_20251130104613.png)
+![](./images/Pasted_image_20251129220232.png)
 
 In about a minute, I can see:
 
@@ -275,7 +275,7 @@ I’ll reconnect my SSH session with the `-L 8080:localhost:8080` option to tu
 
 Visiting `http://localhost:8080` pops the HTTP basic auth prompt:
 
-![](./images/Pasted_image_20251130104707.png)
+![](./images/Pasted_image_20251130104613.png)
 
 The creds for amay, “mychemicalromance”, work here as well:
 
