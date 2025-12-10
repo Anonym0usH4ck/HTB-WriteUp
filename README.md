@@ -14,7 +14,7 @@ Explore step-by-step solutions, privilege escalation techniques, and scripts —
 
 ## 📝 Machine Classification
 - **Active Machines** → write-ups are kept private or partially redacted to respect HTB rules.  
-- **Retired Machines** → full detailed write-ups are published for educational purposes.  
+- [**Retired Machines**](https://github.com/Anonym0usH4ck/HTB-WriteUp/tree/main/Retired) → full detailed write-ups are published for educational purposes.  
 
 ---
 
