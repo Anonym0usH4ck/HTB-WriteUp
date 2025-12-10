@@ -115,7 +115,7 @@ The idea is that it gets put into a `form`, which the payload then closes, crea
 
 I’ll submit this in the contact form:
 
-![](./images/Pasted_image_20251130100954.png)
+![](./images/Pasted_image_20251130104613.png)
 
 In about a minute, I can see:
 
