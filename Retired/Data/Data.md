@@ -30,13 +30,13 @@ Nmap done: 1 IP address (1 host up) scanned in 14.03 seconds
 
 Visiting the port 3000 a have a Grafana Login Page:
 
-![[Pasted_image_20251128111403.png]]
+![](./images/Pasted_image_20251128111403.png)
 
 I'll try default credentials: username:`admin` and password: `admin` , but nothing.
 
 As I can see, I have Grafana version v8.0.0:
 
-![[Pasted_image_20251128112722.png]]
+![](./images/Pasted_image_20251128112722.png)
 
 I find a Directory Trasversal and Aribitrary File Read Vulnerability : https://www.exploit-db.com/exploits/50581. I downloaded it a I'll try to read the `/etc/passwd` file:
 
